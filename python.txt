@@ -1,0 +1,6 @@
+# %% = odzielenie komorki
+'essa byqu' = tekst
+'essa\nbyqu' = essa w 1 linijce a byqu w 2
+\n = oddzielenie linijki  / """essa byqu""" ( to to samo)
+" it's the best " = jak apostrof w ang to "
+\t = TAB
